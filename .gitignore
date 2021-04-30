@@ -1,0 +1,14 @@
+# Public folder 
+dist
+
+# Dependency directories
+node_modules
+
+#vscode folder for local dev things
+.vscode
+
+# environment variables
+.env
+
+#log files
+.log
